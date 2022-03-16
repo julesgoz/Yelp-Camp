@@ -1,5 +1,6 @@
 # Yelp-Camp
 This is a Yelp clone with full CRUD capabilities.  
+![alt text](https://github.com/julesgoz/Yelp-Camp/blob/main/public/SampleHome.PNG)
 
 Users can:
   - Sign-up
@@ -9,8 +10,8 @@ Users can:
   - Upload pictures
   - Write reviews
 
-Hosted Version:  
-<a href="https://serene-depths-72342.herokuapp.com/">Link</a>
+
+<a href="https://serene-depths-72342.herokuapp.com/">Hosted Version</a>
 
 Built with:
 - JS + ejs
